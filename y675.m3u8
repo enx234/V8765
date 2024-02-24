@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/singaporepremium.xml, https://www.bevy.be/bevyfiles/thailand.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml,"
 
 #EXTINF:0 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI - [Channel 118].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="Lokal" tvg-chno="1",TVRI Nasional
-http://103.237.32.213:9981/stream/channelid/455417035?profile=pass
+https://gachor99.my.id/play.m3u8?id=tvri
 
 #EXTINF:0 tvg-id="TVRINasional.id" tvg-name="TVRI Jawa Timur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="Lokal" tvg-chno="2",TVRI Jawa Timur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -12,70 +12,64 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURA
 http://103.237.32.213:9981/stream/channelid/2087137957?profile=pass
 
 #EXTINF:0 tvg-id="TVRISport.id"  tvg-name="TVRI Sport" tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="Lokal" tvg-chno="4",TVRI Sport 
-http://103.237.32.213:9981/stream/channelid/455417035?profile=pass
+https://gachor99.my.id/play.m3u8?id=tvrisport
 
-#EXTINF:0 tvg-id="RCTI - [Channel 430].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal" tvg-chno="5",RCTI
-http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
+#EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD - [Channel 430].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal" ,RCTI MVN
+http://203.77.246.2:443/udp/239.1.3.80:5000
 
-#EXTINF:0 tvg-id="MNCTV - [Channel 432]" tvg-name="MNCTV - [Channel 82].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal" tvg-chno="6",MNC TV
-http://103.237.32.213:9981/stream/channelid/1397747788?profile=pass
+#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal" ,MNC TV MVN
+http://203.77.246.2:443/udp/239.1.3.78:5000
 
-#EXTINF:0 tvg-id="GTV - [Channel 431].id" tvg-name="GTV - [Channel 81].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal" tvg-chno="7",GTV
-http://103.237.32.213:9981/stream/channelid/60098242?profile=pass
+#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV HD - [Channel 431].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal" ,GTV MVN
+http://203.77.246.2:443/udp/239.1.3.68:5000
 
-#EXTINF:0 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews HD - [Channel 433].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal" tvg-chno="8",iNews
-http://103.237.32.213:9981/stream/channelid/577841529?profile=pass
+#EXTINF:0 tvg-id="iNews - [Channel 83].id" tvg-name="iNews - [Channel 83].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal" ,iNews
+https://gachor99.my.id/play.m3u8?id=inews
 
 #EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="Lokal" tvg-chno="9",SCTV
-http://103.237.32.213:9981/stream/channelid/2075096037?profile=pass
+https://gachor99.my.id/play.m3u8?id=sctv
 
 #EXTINF:0, tvg-id="Mentari TV" tvg-name="Mentari TV" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mentari_TV.png/200px-Mentari_TV.png" tvg-chno="10", Mentari TV
-http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
+https://gachor99.my.id/play.m3u8?id=mentaritv
 
 #EXTINF:0 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="Lokal" tvg-chno="11",Indosiar
-http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
+https://gachor99.my.id/play.m3u8?id=indosiar
 
 #EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" tvg-chno="12",MOJI 
-http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
+https://gachor99.my.id/play.m3u8?id=moji
 
 #EXTINF:0 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV - [Channel 87].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="Lokal" tvg-chno="13",Trans TV
-http://103.237.32.213:9981/stream/channelid/882492283?profile=pass
+https://gachor99.my.id/play.m3u8?id=transtv
 
 #EXTINF:0 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7 - [Channel 110].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="Lokal" tvg-chno="14",Trans 7 
-http://103.237.32.213:9981/stream/channelid/882492283?profile=pass
+https://gachor99.my.id/play.m3u8?id=trans7
 
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1920px-Rajawali_Televisi.svg.png" group-title="Lokal" tvg-chno="15",RTV 
-http://103.237.32.213:9981/stream/channelid/1843224228?profile=pass
+https://gachor99.my.id/play.m3u8?id=rtv
 
 #EXTINF:0 tvg-id="NET TV - [Channel 116].id" tvg-name="NET TV - [Channel 116].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7c/NETCHANNEL.png/120px-NETCHANNEL.png" group-title="Lokal" tvg-chno="16",NET.
-http://103.237.32.213:9981/stream/channelid/58782178?profile=pass
+https://gachor99.my.id/play.m3u8?id=nettv-hd
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV - [Channel 115].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="Lokal" tvg-chno="17",ANTV
-http://103.237.32.213:9981/stream/channelid/787526729?profile=pass
+https://gachor99.my.id/play.m3u8?id=antv
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="tvOne - [Channel 97].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="Lokal" tvg-chno="18",tvOne
-http://103.237.32.213:9981/stream/channelid/303387948?profile=pass
+https://gachor99.my.id/play.m3u8?id=tvone
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1920px-KOMPAS_TV_%282017%29.png" group-title="Lokal" tvg-chno="19",Kompas TV
-https://cdn08jtedge.indihometv.com/dassdvr/133/kompastv/manifest.mpd
+https://gachor99.my.id/play.m3u8?id=kompastv
 
 #EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/800px-VTV_Indonesia_2023.svg.png" group-title="Lokal" tvg-chno="20",VTV
-http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
+https://gachor99.my.id/play.m3u8?id=vtv
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="Lokal" tvg-chno="21",Metro TV
-https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd
+https://gachor99.my.id/play.m3u8?id=metrotv
 
 #EXTINF:0 tvg-id="Garuda TV" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="Lokal" tvg-chno="22",Garuda TV 
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="Lokal" ,CNN Indonesia
-http://103.237.32.213:9981/stream/channelid/226992202?profile=pass
-
-#EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="Lokal" ,CNBC Indonesia
-http://103.237.32.213:9981/stream/channelid/2050623964?profile=pass
-
 #EXTINF:0 tvg-id="IDX HD - [Channel 436].id" tvg-name="IDX HD - [Channel 436].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="Lokal" tvg-chno="25",IDX Channel
-http://103.113.116.150:25461/mtm1/12345/43
+https://gachor99.my.id/play.m3u8?id=idx
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -214,7 +208,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45
 http://rr3.dens.tv/s/s27/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1, tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="Al Quran Al Kareem - [Channel 93].id" group-title="Religi" tvg-chno="63" tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg",Makkah (Islam)
-https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd
+https://gachor99.my.id/play.m3u8?id=qurantv
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -252,11 +246,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index
 #EXTINF:- tvg-id="Fox News Channel HD" tvg-name="Fox News Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIdF0ApbjUwluXSC5Dq4yrMv2vKdUn9Besg&usqp=CAU" group-title="News" tvg-chno="81",Fox News
 https://melon-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1, tvg-id="Bloomberg Television HD" tvg-name="Bloomberg Television HD" group-title="News" tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" tvg-chno="82",Bloomberg TV Asia
-https://melon-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+https://gachor99.my.id/play.m3u8?id=bloomberg
 
 #EXTINF:-1, tvg-id="Bloomberg Television HD" tvg-name="Bloomberg Television HD" group-title="Premium" tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" tvg-chno="82",Bloomberg TV Asia SD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.m3u8
@@ -266,6 +257,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="CNBC HD" tvg-name="CNBC HD" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="News" tvg-chno="83",CNBC Asia
 https://melon-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#EXTINF:0 tvg-id="CNBC HD" tvg-name="CNBC HD" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Premium" tvg-chno="83",CNBC Asia
+https://gachor99.my.id/play.m3u8?id=cnbc
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -283,7 +277,7 @@ https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
 https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8
 
 #EXTINF:0 tvg-id="Euro News" tvg-name="Euro News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/150px-Euronews_2022.svg.png" group-title="FTA International"tvg-chno="88",Euro News
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
+https://gachor99.my.id/play.m3u8?id=euronewsasia 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -301,7 +295,7 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/HLS/
 https://melon-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1, tvg-id="France24" tvg-name="France24" group-title="News" tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg" tvg-chno="94",France24
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0123/HLS/V0123.m3u8
+https://gachor99.my.id/play.m3u8?id=france24
 
 #EXTINF:0, tvg-id="TV5MONDE HD" tvg-name="TV5MONDE HD" group-title="FTA International" tvg-logo="http://www.dens.tv/images/channel-logo/90.jpg" tvg-chno="95",TV5 Monde Asia
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0141/HLS/V0141.m3u8
@@ -1262,27 +1256,6 @@ https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="Knowleadge" tvg-chno="127",Sony BBC Earth
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zee_TV_Logo_2017.svg/200px-Zee_TV_Logo_2017.svg.png" group-title="India",Zee TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/zeetvhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="India",Zee Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Zee_Cinemalu.jpeg/250px-Zee_Cinemalu.jpeg" group-title="India",Zee Cinemalu
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/zeecinemalu.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%26pictures.png/220px-%26pictures.png" group-title="India",&Pictures 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/Andpictureshd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/And_TV_logo.png/150px-And_TV_logo.png" group-title="India",&TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/Andtvhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zing_2023_logo.png/110px-Zing_2023_logo.png" group-title="India",Zing
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/Zing.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Zee_Tamil.jpeg/170px-Zee_Tamil.jpeg" group-title="India",Zee Tamil
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/zeetamil.m3u8
-
 #EXTINF:0 tvg-id="TVBS-NEWS" tvg-name="TVBS-NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs_tw_news.png" group-title="Chinese Channel" tvg-chno="420",TVBS News
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0108/HLS/V0108.m3u8
 
@@ -1292,19 +1265,73 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index
 #EXTINF:0 tvg-id="TVBS Asia" tvg-name="TVBS Asia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png" group-title="Chinese Channel" tvg-chno="422",TVBS Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8
 
-#EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD - [Channel 430].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal 2" ,RCTI MVN
-http://203.77.246.2:443/udp/239.1.3.80:5000
+#EXTINF:0 tvg-id="RCTI - [Channel 430].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal DVB-T2" tvg-chno="5",RCTI
+http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
 
-#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal 2" ,MNC TV MVN
-http://203.77.246.2:443/udp/239.1.3.78:5000
+#EXTINF:0 tvg-id="MNCTV - [Channel 432]" tvg-name="MNCTV - [Channel 82].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal DVB-T2" tvg-chno="6",MNC TV
+http://103.237.32.213:9981/stream/channelid/1397747788?profile=pass
 
-#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV HD - [Channel 431].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal 2" ,GTV MVN
-http://203.77.246.2:443/udp/239.1.3.68:5000
+#EXTINF:0 tvg-id="GTV - [Channel 431].id" tvg-name="GTV - [Channel 81].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal DVB-T2" tvg-chno="7",GTV
+http://103.237.32.213:9981/stream/channelid/60098242?profile=pass
+
+#EXTINF:0 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews HD - [Channel 433].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal DVB-T2" tvg-chno="8",iNews
+http://103.237.32.213:9981/stream/channelid/577841529?profile=pass
+
+#EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="Lokal DVB-T2" tvg-chno="9",SCTV
+http://103.237.32.213:9981/stream/channelid/2075096037?profile=pass
+
+#EXTINF:0, tvg-id="Mentari TV" tvg-name="Mentari TV" group-title="Lokal DVB-T2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mentari_TV.png/200px-Mentari_TV.png" tvg-chno="10", Mentari TV
+http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
+
+#EXTINF:0 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="Lokal DVB-T2" tvg-chno="11",Indosiar
+http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
+
+#EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="Lokal DVB-T2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" tvg-chno="12",MOJI 
+http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
+
+#EXTINF:0 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV - [Channel 87].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="Lokal DVB-T2" tvg-chno="13",Trans TV
+http://103.237.32.213:9981/stream/channelid/882492283?profile=pass
+
+#EXTINF:0 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7 - [Channel 110].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="Lokal DVB-T2" tvg-chno="14",Trans 7 
+http://103.237.32.213:9981/stream/channelid/882492283?profile=pass
+
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1920px-Rajawali_Televisi.svg.png" group-title="Lokal DVB-T2" tvg-chno="15",RTV 
+http://103.237.32.213:9981/stream/channelid/1843224228?profile=pass
+
+#EXTINF:0 tvg-id="NET TV - [Channel 116].id" tvg-name="NET TV - [Channel 116].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7c/NETCHANNEL.png/120px-NETCHANNEL.png" group-title="Lokal DVB-T2" tvg-chno="16",NET.
+http://103.237.32.213:9981/stream/channelid/58782178?profile=pass
+
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV - [Channel 115].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="Lokal DVB-T2" tvg-chno="17",ANTV
+http://103.237.32.213:9981/stream/channelid/787526729?profile=pass
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="tvOne - [Channel 97].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="Lokal DVB-T2" tvg-chno="18",tvOne
+http://103.237.32.213:9981/stream/channelid/303387948?profile=pass
+
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1920px-KOMPAS_TV_%282017%29.png" group-title="Lokal DVB-T2" tvg-chno="19",Kompas TV
+https://cdn08jtedge.indihometv.com/dassdvr/133/kompastv/manifest.mpd
+
+#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/800px-VTV_Indonesia_2023.svg.png" group-title="Lokal DVB-T2" tvg-chno="20",VTV
+http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
+
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="Lokal 2" tvg-chno="21",Metro TV HD
+https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd
+
+#EXTINF:0 tvg-id="Garuda TV" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="Lokal" tvg-chno="22",Garuda TV 
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="Lokal DVB-T2" ,CNN Indonesia
+http://103.237.32.213:9981/stream/channelid/226992202?profile=pass
+
+#EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="Lokal DVB-T2" ,CNBC Indonesia
+http://103.237.32.213:9981/stream/channelid/2050623964?profile=pass
+
+#EXTINF:0 tvg-id="IDX HD - [Channel 436].id" tvg-name="IDX HD - [Channel 436].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="Lokal" tvg-chno="25",IDX Channel
+http://103.113.116.150:25461/mtm1/12345/43
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
-#EXTINF:0 tvg-id="iNews - [Channel 83].id" tvg-name="iNews - [Channel 83].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal 2" ,iNews MVN
+#EXTINF:0 tvg-id="iNews - [Channel 83].id" tvg-name="iNews - [Channel 83].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal" ,iNews MVN
 https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:0 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV - [Channel 89].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="Lokal 2" ,SCTV SD
